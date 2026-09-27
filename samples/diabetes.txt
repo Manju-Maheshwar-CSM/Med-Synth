@@ -1,0 +1,11 @@
+[SYNTHETIC DEMO DATA — not a real study or citation]
+
+Title: Structured Lifestyle Intervention Versus Standard Care for Glycemic Control in Type 2 Diabetes: A Synthetic Randomized Controlled Trial
+
+Background: Intensive lifestyle modification may improve glycemic control in adults with type 2 diabetes, but the durability of benefit and effect on HbA1c in this synthetic evaluation are uncertain.
+
+Methods: We performed a synthetic open-label randomized controlled trial in a primary-care setting. A total of n=540 adults with type 2 diabetes and a baseline HbA1c between 7.5% and 10.0% were randomized 1:1 to a 12-month structured lifestyle intervention (dietary counseling, supervised exercise, and digital coaching) or to standard care. The primary outcome was the change in HbA1c at 12 months. Secondary outcomes included body weight, systolic blood pressure, and medication use.
+
+Results: At 12 months, HbA1c decreased by a mean of 1.1 percentage points in the intervention group versus 0.4 percentage points in the standard-care group, a between-group difference of -0.7 percentage points (95% CI -0.9 to -0.5, p<0.001). Mean body weight fell by 4.8 kg in the intervention group compared with 1.2 kg in the standard-care group. A greater proportion of intervention participants reduced their glucose-lowering medications (28% vs 11%). No serious adverse events were attributed to the intervention.
+
+Conclusion: In this synthetic study, a structured lifestyle intervention produced a modest but statistically significant improvement in HbA1c at 12 months compared with standard care. The findings may indicate potential benefit; however, longer follow-up would be needed to assess whether the improvement in glycemic control is sustained.

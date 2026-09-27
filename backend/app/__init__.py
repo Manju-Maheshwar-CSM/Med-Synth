@@ -1,0 +1,1 @@
+"""MedSynth backend application package."""

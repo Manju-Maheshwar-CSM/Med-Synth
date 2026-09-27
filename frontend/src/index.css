@@ -1,0 +1,84 @@
+@import "@fontsource-variable/inter";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 40% 98%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --primary: 174 84% 32%;
+    --primary-foreground: 0 0% 100%;
+    --accent: 243 75% 59%;
+    --accent-foreground: 0 0% 100%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 20% 45%;
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 174 84% 32%;
+    --success: 152 62% 40%;
+    --warning: 32 95% 44%;
+    --danger: 0 72% 51%;
+  }
+
+  .dark {
+    --background: 222 47% 7%;
+    --foreground: 210 40% 96%;
+    --card: 222 44% 11%;
+    --card-foreground: 210 40% 96%;
+    --primary: 173 70% 45%;
+    --primary-foreground: 222 47% 8%;
+    --accent: 243 75% 68%;
+    --accent-foreground: 222 47% 8%;
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+    --border: 217 33% 20%;
+    --input: 217 33% 22%;
+    --ring: 173 70% 45%;
+    --success: 152 55% 48%;
+    --warning: 38 92% 55%;
+    --danger: 0 72% 60%;
+  }
+
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "cv11", "ss01";
+  }
+  ::selection {
+    @apply bg-primary/20;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-card/80 backdrop-blur-md;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .mark-num {
+    @apply rounded bg-primary/[0.14] px-1 font-medium text-primary;
+  }
+  .mark-term {
+    @apply rounded bg-accent/[0.14] px-1 font-medium text-accent;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 999px;
+  border: 2px solid hsl(var(--background));
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}

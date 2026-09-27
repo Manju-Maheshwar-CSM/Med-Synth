@@ -1,0 +1,11 @@
+[SYNTHETIC DEMO DATA — not a real study or citation]
+
+Title: Adjuvant Pembrolizumab-Based Immunotherapy in Resected Stage III Melanoma: A Synthetic Randomized Controlled Trial
+
+Background: Patients with resected stage III cutaneous melanoma remain at high risk of recurrence despite complete surgical resection. Adjuvant immune checkpoint inhibition may reduce recurrence, but its magnitude of benefit and safety profile in this synthetic setting require evaluation.
+
+Methods: We conducted a synthetic multicenter, double-blind, placebo-controlled randomized controlled trial. A total of n=842 adults with completely resected stage III melanoma were randomly assigned 1:1 to receive adjuvant pembrolizumab (200 mg intravenously every 3 weeks) or matching placebo for up to 12 months. The primary endpoint was recurrence-free survival (RFS). Secondary endpoints included distant metastasis-free survival and safety.
+
+Results: After a median follow-up of 36 months, recurrence-free survival was significantly longer in the pembrolizumab group than in the placebo group (hazard ratio HR=0.58, 95% CI 0.46-0.73, p<0.001). The estimated 3-year RFS was 64% in the pembrolizumab group versus 44% in the placebo group. Grade 3 or higher treatment-related adverse events occurred in 17% of patients receiving pembrolizumab compared with 6% receiving placebo. Immune-related adverse events were consistent with the known class effect.
+
+Conclusion: In this synthetic trial, adjuvant pembrolizumab significantly prolonged recurrence-free survival compared with placebo among patients with resected stage III melanoma, with a higher incidence of grade 3+ adverse events. These findings suggest a potential adjuvant benefit that would require confirmation in longer-term overall survival analyses.

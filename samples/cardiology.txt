@@ -1,0 +1,11 @@
+[SYNTHETIC DEMO DATA — not a real study or citation]
+
+Title: Empagliflozin Versus Placebo for Heart Failure with Reduced Ejection Fraction: A Synthetic Randomized Controlled Trial
+
+Background: Sodium-glucose cotransporter-2 (SGLT2) inhibitors have shown cardiovascular benefit in several populations. Whether empagliflozin reduces cardiovascular events in patients with chronic heart failure and reduced ejection fraction is evaluated in this synthetic study.
+
+Methods: In a synthetic prospective, double-blind, placebo-controlled randomized controlled trial, n=3,626 adults with chronic heart failure (New York Heart Association class II-IV) and a left ventricular ejection fraction of 40% or less were randomized 1:1 to empagliflozin 10 mg once daily or placebo, in addition to guideline-directed therapy. The primary composite outcome was cardiovascular death or hospitalization for heart failure. Median follow-up was 21 months.
+
+Results: A primary outcome event occurred in 361 of 1,813 patients (19.9%) in the empagliflozin group and in 462 of 1,813 patients (25.5%) in the placebo group (hazard ratio HR=0.75, 95% CI 0.65-0.86, p<0.001). Hospitalization for heart failure was reduced (HR=0.69, 95% CI 0.59-0.81). The annual rate of decline in estimated glomerular filtration rate was slower with empagliflozin. Uncomplicated genital tract infections were more frequent in the empagliflozin group (6.4% vs 1.8%).
+
+Conclusion: In this synthetic trial, empagliflozin reduced the combined risk of cardiovascular death or hospitalization for heart failure regardless of the presence of diabetes. The results suggest a potential role for SGLT2 inhibition in this population, although these synthetic findings would require confirmation before informing clinical practice.
